@@ -1,1 +1,1 @@
-# Traffic_accedent_analysis_PRODIGY_DS_05
+# Traffic_accident_analysis_PRODIGY_DS_05
